@@ -1,4 +1,4 @@
-# 1) O Reflorestador (Loop com Acumulador)
+# 1) O Reflorestador / Loop com Acumulador
 
 meta_biomassa = float(input("Digite a meta de biomassa (em unidades): "))
 
