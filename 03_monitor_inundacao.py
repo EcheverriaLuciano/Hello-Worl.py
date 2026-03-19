@@ -4,7 +4,7 @@ while True:
     nivel_rio = float(input("Digite o nível do rio (em metros): "))
 
     if nivel_rio < 0:
-        print("Leitura encerrada.")
+        print(" Valor Invalido. \nLeitura encerrada.")
         break
     elif nivel_rio < 3:
         print("Estado Normal")
