@@ -34,6 +34,8 @@ Uso Correto de OO: Os dados foram de fato transformados em objetos antes de irem
 Clean Code: Legibilidade de variáveis, indentação e comentários explicativos.
 
 Observação: configure a variável de ambiente `OPENWEATHERMAP_API_KEY` com sua chave antes de executar.
+
+Chave API: 4d034d5a6b90064571dd976a5c6499b5
 """
 
 from __future__ import annotations
